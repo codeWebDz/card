@@ -1,1 +1,1 @@
-[screen-capture (7).webm](https://github.com/user-attachments/assets/c4400523-5574-451f-8b21-c75c2dbda42c)
+![card animation](https://github.com/user-attachments/assets/2c67cb48-b4ed-4685-be9a-1a084e2263bb)
