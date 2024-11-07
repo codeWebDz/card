@@ -14,13 +14,16 @@ body{
     text-align: center;
      
 }
-.card{
+.card {
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
     min-height: 100vh;
     gap: 40px;
+}
+.card h4{
+    font-size: 2em;
 }
 .e-card {
  background: transparent;
@@ -103,6 +106,16 @@ body{
    transform: rotate(360deg);
  }
 }
+
+footer{
+    position: absolute;
+    bottom: 2%;
+}
+footer a , footer{
+    color: #a78da9;
+
+}
+
 
 @media (max-width : 480px){
     .card h4{
